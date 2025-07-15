@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "league": "Premier League",
+    "home": "Arsenal",
+    "away": "Chelsea",
+    "score": "2 - 1",
+    "status": "Full-Time"
+  }
+]
